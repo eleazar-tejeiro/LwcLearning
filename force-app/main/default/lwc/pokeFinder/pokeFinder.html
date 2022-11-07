@@ -1,0 +1,28 @@
+<template>    
+    <section class="container">
+        <div class="box slds-p-around_small">
+            <img class="pokefinder" src={pokeFinder}>
+            <div onkeyup={handleKeyUp} class="slds-m-top_x-large">
+                <lightning-input
+                    name="enter-search"
+                    label="Enter the name of a pokemon and then press 'enter' key to search"
+                    type="search"
+                ></lightning-input>
+            </div>
+            <section class="slds-m-top_x-large">
+                <template if:true={loading}>
+                    <c-pika-loader></c-pika-loader>
+                </template>
+                <template if:false={loading}>
+                    <template if:true={found}>                        
+                        <c-poke-card pokemon={pokemon}></c-poke-card>
+                    </template>
+                    <template if:false={found}>
+                        <c-psy-oh-no-404></c-psy-oh-no-404>
+                    </template>                    
+                </template>
+            </section>
+        </div>
+    </section>
+    <img class="ash" src={ash}>
+</template>

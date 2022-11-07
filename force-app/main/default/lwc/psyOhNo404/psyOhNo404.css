@@ -1,0 +1,13 @@
+.psy-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    flex-direction: column;
+}
+
+.psyduck {
+    max-width: 100px;
+    height: auto;
+    display: block;
+}

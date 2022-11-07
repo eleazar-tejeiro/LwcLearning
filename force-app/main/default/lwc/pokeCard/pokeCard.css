@@ -1,0 +1,9 @@
+.pokemon {
+    border: 4px solid #2a75bb;
+    width: 104px;
+    height: 104px;
+}
+
+.details-container {
+    display: flex;
+}

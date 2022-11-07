@@ -1,0 +1,2576 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Actions</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Actions</shortDescription>
+        <value>Actions</value>
+    </labels>
+    <labels>
+        <fullName>ActiveTier</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Active tier column header label</shortDescription>
+        <value>Active tier</value>
+    </labels>
+    <labels>
+        <fullName>ActivitiesAndTasks</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Activities and tasks</shortDescription>
+        <value>Activities and tasks</value>
+    </labels>
+    <labels>
+        <fullName>Activity</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Activity</shortDescription>
+        <value>Activity</value>
+    </labels>
+    <labels>
+        <fullName>ActivityGroup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Activity Group</shortDescription>
+        <value>Activity Group</value>
+    </labels>
+    <labels>
+        <fullName>ActivityGroupColumn</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Activity Group Column</shortDescription>
+        <value>Activity Group/Activity/Task</value>
+    </labels>
+    <labels>
+        <fullName>Add</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add</shortDescription>
+        <value>Add</value>
+    </labels>
+    <labels>
+        <fullName>AddEditActivities</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add/edit activities</shortDescription>
+        <value>Add/edit activities</value>
+    </labels>
+    <labels>
+        <fullName>AddEditActivityGroups</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add/edit activity groups</shortDescription>
+        <value>Add/edit activity groups</value>
+    </labels>
+    <labels>
+        <fullName>AddEditScopeParameters</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add/edit scope parameters</shortDescription>
+        <value>Add/edit scope parameters</value>
+    </labels>
+    <labels>
+        <fullName>AddEditTaskParameters</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add/edit task parameters</shortDescription>
+        <value>Add/edit task parameters</value>
+    </labels>
+    <labels>
+        <fullName>AddEditTasks</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add/edit tasks</shortDescription>
+        <value>Add/edit tasks</value>
+    </labels>
+    <labels>
+        <fullName>AddHeadCountForResources</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription
+		>To apply cola, please increase the head counts on the current resources.</shortDescription>
+        <value
+		>This quote has no head counts. To apply cola, please increase the head counts on the current resources.</value>
+    </labels>
+    <labels>
+        <fullName>AddIcon</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Icon</shortDescription>
+        <value>utility:add</value>
+    </labels>
+    <labels>
+        <fullName>AddPeriods</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add Periods</shortDescription>
+        <value>Add Periods</value>
+    </labels>
+    <labels>
+        <fullName>AddRecurringHours</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add recurring hours</shortDescription>
+        <value>Add recurring hours</value>
+    </labels>
+    <labels>
+        <fullName>AddResource</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add Resource</shortDescription>
+        <value>Add resource</value>
+    </labels>
+    <labels>
+        <fullName>AddRow</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Row</shortDescription>
+        <value>Add row</value>
+    </labels>
+    <labels>
+        <fullName>AddSection</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add Section</shortDescription>
+        <value>Add section</value>
+    </labels>
+    <labels>
+        <fullName>AddServiceRecommendationsSuccess</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Service Recommendations Success Message</shortDescription>
+        <value>Service Recommendation Product is added to opportunity</value>
+    </labels>
+    <labels>
+        <fullName>AddServiceRecommendationsTitle</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Service Recommendations</shortDescription>
+        <value>Add Service Recommendations</value>
+    </labels>
+    <labels>
+        <fullName>AddToQuote</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add to Quote</shortDescription>
+        <value>Add to quote</value>
+    </labels>
+    <labels>
+        <fullName>AddValuesButton</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Add Values Button</shortDescription>
+        <value>Add Values</value>
+    </labels>
+    <labels>
+        <fullName>AdjustColaForQuote</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Adjust cola rates</shortDescription>
+        <value>Adjust cola rates</value>
+    </labels>
+    <labels>
+        <fullName>AdjustColaValidationMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Rate Match: Global cannot be deleted</shortDescription>
+        <value>Rate Match: Global cannot be deleted</value>
+    </labels>
+    <labels>
+        <fullName>AdjustHours</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Adjust Hours</shortDescription>
+        <value>Adjust hours</value>
+    </labels>
+    <labels>
+        <fullName>AlignToDate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Align to Date</shortDescription>
+        <value>Align to Date</value>
+    </labels>
+    <labels>
+        <fullName>Ancillary</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Ancillary</shortDescription>
+        <value>Ancillary</value>
+    </labels>
+    <labels>
+        <fullName>ApplicationException</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Application exception header label</shortDescription>
+        <value>Application Exception</value>
+    </labels>
+    <labels>
+        <fullName>ApplyCOLA</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Apply Cola</shortDescription>
+        <value>Apply Cola</value>
+    </labels>
+    <labels>
+        <fullName>Approve</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Approve</shortDescription>
+        <value>Approve</value>
+    </labels>
+    <labels>
+        <fullName>AskToEnableFeature</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Ask your administrator to enable this feature.</shortDescription>
+        <value>Ask your administrator to enable this feature.</value>
+    </labels>
+    <labels>
+        <fullName>AssociatedEstimateToQuoteAlreadyExisting</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Associated Estimate To Quote validation error</shortDescription>
+        <value>Estimate can only be associated to a single Quote.</value>
+    </labels>
+    <labels>
+        <fullName>AtLeastOneTierRequired</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Volume discount at least one tier required message</shortDescription>
+        <value>At least one valid tier is required</value>
+    </labels>
+    <labels>
+        <fullName>AvailabilityPercentage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Availability percentage</shortDescription>
+        <value>Availability percentage</value>
+    </labels>
+    <labels>
+        <fullName>AverageRevenue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Average revenue</shortDescription>
+        <value>Average revenue</value>
+    </labels>
+    <labels>
+        <fullName>BasedOn</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Based-on column header label</shortDescription>
+        <value>Based-on</value>
+    </labels>
+    <labels>
+        <fullName>Billable</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Billable</shortDescription>
+        <value>Billable</value>
+    </labels>
+    <labels>
+        <fullName>CLoneSuccessMessage</fullName>
+        <categories>generic Success message for succesful cloning.</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CLone Success Message</shortDescription>
+        <value>{0} cloned successfully</value>
+    </labels>
+    <labels>
+        <fullName>Calculate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Calculate</shortDescription>
+        <value>Calculate</value>
+    </labels>
+    <labels>
+        <fullName>CancelButton</fullName>
+        <categories>label for Cancel Button</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cancel Button</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>Category</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Category</shortDescription>
+        <value>Category</value>
+    </labels>
+    <labels>
+        <fullName>CheckingOut</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Checking Out Message</shortDescription>
+        <value>Checking Out...</value>
+    </labels>
+    <labels>
+        <fullName>City</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>City</shortDescription>
+        <value>City</value>
+    </labels>
+    <labels>
+        <fullName>CloneButton</fullName>
+        <categories>label for Clone Button</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Clone Button</shortDescription>
+        <value>Clone</value>
+    </labels>
+    <labels>
+        <fullName>CloneErrorMessage</fullName>
+        <categories>Generic error message for Sobjects.</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Clone Error Message</shortDescription>
+        <value>There is a problem in {0} Cloning.</value>
+    </labels>
+    <labels>
+        <fullName>CloseButton</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Close Button</shortDescription>
+        <value>Close</value>
+    </labels>
+    <labels>
+        <fullName>ColaAdjustment</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cola Adjustment</shortDescription>
+        <value>Cola Adjustment</value>
+    </labels>
+    <labels>
+        <fullName>ColaAdjustmentWorkSheet</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Review cola</shortDescription>
+        <value>Review cola</value>
+    </labels>
+    <labels>
+        <fullName>ColaOverride</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cola Override</shortDescription>
+        <value>Cola Override</value>
+    </labels>
+    <labels>
+        <fullName>ColaPassThroughPercent</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cola Pass-through Percent</shortDescription>
+        <value>Cola Pass-through %</value>
+    </labels>
+    <labels>
+        <fullName>ColaRateOverride</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>* indicates the rate has been overriden</shortDescription>
+        <value>* indicates the rate has been overriden</value>
+    </labels>
+    <labels>
+        <fullName>ColaRateSheetCloneHeader</fullName>
+        <categories>header for Cola Rate Sheet clone component</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cola Rate Sheet Clone Header</shortDescription>
+        <value>Clone Cola Rate Sheet</value>
+    </labels>
+    <labels>
+        <fullName>ColaYoyCostAdjustmentPercent</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cola YOY Cost Adjustment</shortDescription>
+        <value>Cola YOY Cost Adjustment %</value>
+    </labels>
+    <labels>
+        <fullName>CollaborationCommitted</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Collaboration Committed</shortDescription>
+        <value>Section(s) were successfully committed</value>
+    </labels>
+    <labels>
+        <fullName>CollaborationEmailSubject</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Collaboration Email Subject</shortDescription>
+        <value>You&apos;ve been invited to collaborate.</value>
+    </labels>
+    <labels>
+        <fullName>CollaborationFailedInviteError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Collaboration Failed to Invite Error</shortDescription>
+        <value>Failed to Invite to Collaborate</value>
+    </labels>
+    <labels>
+        <fullName>CollaborationInviteError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Collaboration Invite Error</shortDescription>
+        <value>User and quote section selections are required</value>
+    </labels>
+    <labels>
+        <fullName>CollaborationMerged</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Collaboration Merged</shortDescription>
+        <value>Section(s) were successfully merged</value>
+    </labels>
+    <labels>
+        <fullName>CollaborationQuoteFor</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Collaboration Quote For</shortDescription>
+        <value>Collaboration Quote {0} for: {1}</value>
+    </labels>
+    <labels>
+        <fullName>CommentsForApprover</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Comments for Approver</shortDescription>
+        <value>Comments for Approver</value>
+    </labels>
+    <labels>
+        <fullName>Commit</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Commit</shortDescription>
+        <value>Commit</value>
+    </labels>
+    <labels>
+        <fullName>CompleteThisField</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Complete This Field</shortDescription>
+        <value>Complete this field.</value>
+    </labels>
+    <labels>
+        <fullName>ConfigurationChanged</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Configuration Changed</shortDescription>
+        <value>{0} has changed the configuration.</value>
+    </labels>
+    <labels>
+        <fullName>Continue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Continue Button title</shortDescription>
+        <value>Continue</value>
+    </labels>
+    <labels>
+        <fullName>CopyCurrentYear</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Copy current year</shortDescription>
+        <value>Copy current year</value>
+    </labels>
+    <labels>
+        <fullName>CopyFromTo</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Copy from {0} to {1}</shortDescription>
+        <value>Copy from {0} to {1}</value>
+    </labels>
+    <labels>
+        <fullName>CopyQuoteAsTemplate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Copy Quote As Template Lightning Input Label</shortDescription>
+        <value>Quote Template Name</value>
+    </labels>
+    <labels>
+        <fullName>CopyToClipboard</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Copy to clipboard</shortDescription>
+        <value>Copy to clipboard</value>
+    </labels>
+    <labels>
+        <fullName>Cost</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cost</shortDescription>
+        <value>Cost</value>
+    </labels>
+    <labels>
+        <fullName>CostIncrease</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cost Increase</shortDescription>
+        <value>Cost Increase</value>
+    </labels>
+    <labels>
+        <fullName>CostIncreaseWithColaOverride</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cost Increase with Cola Override</shortDescription>
+        <value>Cost Increase with Cola Override</value>
+    </labels>
+    <labels>
+        <fullName>Country</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Country</shortDescription>
+        <value>Country</value>
+    </labels>
+    <labels>
+        <fullName>CreateButton</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create button</shortDescription>
+        <value>Create</value>
+    </labels>
+    <labels>
+        <fullName>CreateEditActivityGroups</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create/edit activity groups</shortDescription>
+        <value>Create/edit activity groups</value>
+    </labels>
+    <labels>
+        <fullName>CreateEditPhase</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create/edit phases</shortDescription>
+        <value>Create/edit phases</value>
+    </labels>
+    <labels>
+        <fullName>CreateNewMilestone</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create New Milestone</shortDescription>
+        <value>Create new milestone</value>
+    </labels>
+    <labels>
+        <fullName>CreatePhase</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CreatePhase</shortDescription>
+        <value>Create phase</value>
+    </labels>
+    <labels>
+        <fullName>CreateRateCardFromQuoteAccountIdMissing</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create Rate Card from Quote validation error</shortDescription>
+        <value>Quote does not have account id associated</value>
+    </labels>
+    <labels>
+        <fullName>CreateRateCardFromQuoteAlreadyExisting</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create Rate Card from Quote validation error</shortDescription>
+        <value>Already created rate card for this quote</value>
+    </labels>
+    <labels>
+        <fullName>CreateRateCardFromQuoteSuccess</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create Rate Card from Quote title</shortDescription>
+        <value>{0} created from quote successfully</value>
+    </labels>
+    <labels>
+        <fullName>CreateRateCardFromQuoteTitle</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Create Rate Card from Quote title</shortDescription>
+        <value>Create new rate card</value>
+    </labels>
+    <labels>
+        <fullName>CreatedBy</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Created By</shortDescription>
+        <value>Created By</value>
+    </labels>
+    <labels>
+        <fullName>CurrentAmount</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Current Amount</shortDescription>
+        <value>Current Amount</value>
+    </labels>
+    <labels>
+        <fullName>CurrentCost</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Current Cost</shortDescription>
+        <value>Current Cost</value>
+    </labels>
+    <labels>
+        <fullName>CurrentDiscount</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Current Discount</shortDescription>
+        <value>Current Discount</value>
+    </labels>
+    <labels>
+        <fullName>CurrentMargin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Current Margin</shortDescription>
+        <value>Current Margin</value>
+    </labels>
+    <labels>
+        <fullName>CurrentRevenue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Current Revenue</shortDescription>
+        <value>Current Revenue</value>
+    </labels>
+    <labels>
+        <fullName>Daily</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Daily</shortDescription>
+        <value>Daily</value>
+    </labels>
+    <labels>
+        <fullName>DataType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Data Type</shortDescription>
+        <value>Data Type</value>
+    </labels>
+    <labels>
+        <fullName>Default</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Default</shortDescription>
+        <value>Default</value>
+    </labels>
+    <labels>
+        <fullName>DefaultSection</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Default Section</shortDescription>
+        <value>Default Section</value>
+    </labels>
+    <labels>
+        <fullName>DefineDuration</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Define duration</shortDescription>
+        <value>Define duration</value>
+    </labels>
+    <labels>
+        <fullName>DefineDurationIfChecked</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Checked parameter dialog header title</shortDescription>
+        <value>Define duration if checked</value>
+    </labels>
+    <labels>
+        <fullName>DefineRecommendedDurations</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Integer or Picklist tier parameter dialog header title</shortDescription>
+        <value>Define recommended durations</value>
+    </labels>
+    <labels>
+        <fullName>DefineRecommendedPerUnitDuration</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Integer parameter dialog header title</shortDescription>
+        <value>Define recommended per unit duration</value>
+    </labels>
+    <labels>
+        <fullName>DeleteButton</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Delete Button</shortDescription>
+        <value>Delete</value>
+    </labels>
+    <labels>
+        <fullName>DeleteIcon</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Delete Icon</shortDescription>
+        <value>utility:delete</value>
+    </labels>
+    <labels>
+        <fullName>DeleteMilestoneHeader</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Delete Milestone</shortDescription>
+        <value>Delete Milestone</value>
+    </labels>
+    <labels>
+        <fullName>DeleteMilestoneMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Delete Milestone Message</shortDescription>
+        <value>Are you sure you want to delete this Milestone?</value>
+    </labels>
+    <labels>
+        <fullName>DeleteRow</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Delete Row</shortDescription>
+        <value>Delete row</value>
+    </labels>
+    <labels>
+        <fullName>DiscountAmount</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Discount Amount</shortDescription>
+        <value>Discount Amount</value>
+    </labels>
+    <labels>
+        <fullName>DiscountPercent</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Discount %</shortDescription>
+        <value>Discount %</value>
+    </labels>
+    <labels>
+        <fullName>DiscountSuccessMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DiscountSuccessMessage</shortDescription>
+        <value>Discounts applied successfully.</value>
+    </labels>
+    <labels>
+        <fullName>DiscountTierNoGaps</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription
+		>Validation error when gap in to/from discount tier values</shortDescription>
+        <value>Discount tiers cannot have gaps</value>
+    </labels>
+    <labels>
+        <fullName>DiscountTierNoOverlap</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription
+		>Validation error when there are overlapping discount tier values</shortDescription>
+        <value>Discount tiers cannot overlap</value>
+    </labels>
+    <labels>
+        <fullName>DiscountatQuoteLevel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DiscountatQuoteLevel</shortDescription>
+        <value>Discount at Quote Level</value>
+    </labels>
+    <labels>
+        <fullName>DiscountbyCategory</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Discount by Category</shortDescription>
+        <value>Discount by Category</value>
+    </labels>
+    <labels>
+        <fullName>DuplicateHashtagError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Duplicate Hashtag Error</shortDescription>
+        <value>Duplicate hashtag(s) found in Estimate Template</value>
+    </labels>
+    <labels>
+        <fullName>DuplicateLocationError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>DuplicateLocationError</shortDescription>
+        <value>Duplicate location found</value>
+    </labels>
+    <labels>
+        <fullName>DuplicateRateError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>DuplicateRateError</shortDescription>
+        <value>Duplicate rate found for Service Year and Location</value>
+    </labels>
+    <labels>
+        <fullName>DuplicateStrategy</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Duplicate merge strategy</shortDescription>
+        <value>Duplicate merge strategy</value>
+    </labels>
+    <labels>
+        <fullName>DurationNotificationMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Duration Notification Message</shortDescription>
+        <value>Duration Updated Successfully</value>
+    </labels>
+    <labels>
+        <fullName>EarnedDiscount</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Earned Discount</shortDescription>
+        <value>Earned Discount</value>
+    </labels>
+    <labels>
+        <fullName>EditRateFactors</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Edit Rate Factors</shortDescription>
+        <value>Edit Rate Factors</value>
+    </labels>
+    <labels>
+        <fullName>EditResource</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Edit Resource</shortDescription>
+        <value>Edit resource</value>
+    </labels>
+    <labels>
+        <fullName>EditSection</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Edit Section</shortDescription>
+        <value>Edit section</value>
+    </labels>
+    <labels>
+        <fullName>EffectiveDate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Effective Date</shortDescription>
+        <value>Effective Date</value>
+    </labels>
+    <labels>
+        <fullName>Error</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error</shortDescription>
+        <value>Error</value>
+    </labels>
+    <labels>
+        <fullName>ErrorAddPeriodsPmax</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error Add Periods Pmax</shortDescription>
+        <value>The maximum number of periods for a quote is 468.</value>
+    </labels>
+    <labels>
+        <fullName>ErrorCouldNotEvaluateFormula</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error Could Not Evaluate Formula</shortDescription>
+        <value
+		>Formula could not be evaluated, please ensure formula syntax is correct. Ex. &quot;#num_of_forms * #time_per_form&quot;, &quot;(1 + #mobile_factor)* #num_of_forms * 20&quot;</value>
+    </labels>
+    <labels>
+        <fullName>ErrorCouldNotValidate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error Could Not Validate</shortDescription>
+        <value>{0} could not be validated, please check and try again.</value>
+    </labels>
+    <labels>
+        <fullName>ErrorNegativeValue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ErrorNegativeValue</shortDescription>
+        <value>Value cannot be negative.</value>
+    </labels>
+    <labels>
+        <fullName>ErrorNoAvailableRoles</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ErrorNoAvailableRoles</shortDescription>
+        <value>There are no available roles for the selected Practice and Group.</value>
+    </labels>
+    <labels>
+        <fullName>ErrorRateCardExpired</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error Rate Card Expired</shortDescription>
+        <value
+		>The Rate Card for Account: {0} is expired/inactive during the selected service period.</value>
+    </labels>
+    <labels>
+        <fullName>ErrorSavingMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Save error notification message</shortDescription>
+        <value>Error saving {0}</value>
+    </labels>
+    <labels>
+        <fullName>ErrorSavingNotificationTitle</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error saving notification title</shortDescription>
+        <value>Error Saving</value>
+    </labels>
+    <labels>
+        <fullName>EstimateCloneError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>There is a problem in Estimate cloning</shortDescription>
+        <value>TThere is a problem in Estimate cloning</value>
+    </labels>
+    <labels>
+        <fullName>EstimateCloneHeader</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Clone Estimate</shortDescription>
+        <value>Clone Estimate</value>
+    </labels>
+    <labels>
+        <fullName>EstimateDuration</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Estimate duration</shortDescription>
+        <value>Estimate duration</value>
+    </labels>
+    <labels>
+        <fullName>EstimateNotLinkedQuoteError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error Message</shortDescription>
+        <value>Estimate is not linked to a quote</value>
+    </labels>
+    <labels>
+        <fullName>EstimateTemplateCloneError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>There was a problem cloning the Estimate Template</shortDescription>
+        <value>There was a problem cloning the Estimate Template</value>
+    </labels>
+    <labels>
+        <fullName>EstimateTemplateCloneHeader</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Clone estimate template</shortDescription>
+        <value>Clone estimate template</value>
+    </labels>
+    <labels>
+        <fullName>EstimateTemplateName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Estimate Template Name</shortDescription>
+        <value>Estimate Template Name</value>
+    </labels>
+    <labels>
+        <fullName>EstimateTemplateValidationErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EstimateTemplate Validation Error Message</shortDescription>
+        <value>You cannot update UseProjectPhases field value</value>
+    </labels>
+    <labels>
+        <fullName>EstimatedDuration</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Estimated Duration</shortDescription>
+        <value>Estimated Duration</value>
+    </labels>
+    <labels>
+        <fullName>ExpirationDate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Expiration Date</shortDescription>
+        <value>Expiration Date</value>
+    </labels>
+    <labels>
+        <fullName>FormulaEvaluationErrorTitle</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Formula evaluation error title</shortDescription>
+        <value>Formula Evaluation Error</value>
+    </labels>
+    <labels>
+        <fullName>Frequency</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Frequency</shortDescription>
+        <value>Frequency</value>
+    </labels>
+    <labels>
+        <fullName>From</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>From</shortDescription>
+        <value>From</value>
+    </labels>
+    <labels>
+        <fullName>FromValue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>From Value</shortDescription>
+        <value>From Value</value>
+    </labels>
+    <labels>
+        <fullName>Global</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Global</shortDescription>
+        <value>Global</value>
+    </labels>
+    <labels>
+        <fullName>GrandTotal</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Grand Total</shortDescription>
+        <value>Grand Total</value>
+    </labels>
+    <labels>
+        <fullName>GrandTotalPerson</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Grand Total Persion</shortDescription>
+        <value>Grand Total Person</value>
+    </labels>
+    <labels>
+        <fullName>Guidance</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Guidance</shortDescription>
+        <value>Guidance</value>
+    </labels>
+    <labels>
+        <fullName>Hashtag</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Hashtag</shortDescription>
+        <value>Hashtag</value>
+    </labels>
+    <labels>
+        <fullName>HideMetrics</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hide Metrics</shortDescription>
+        <value>Hide Metrics</value>
+    </labels>
+    <labels>
+        <fullName>HidePricingAttributes</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hide Pricing Attributes</shortDescription>
+        <value>Hide Pricing Attributes</value>
+    </labels>
+    <labels>
+        <fullName>HideQuoteItems</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hide Quote Items</shortDescription>
+        <value>Hide Quote Items</value>
+    </labels>
+    <labels>
+        <fullName>HideRateAttributes</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hide Rate Attributes</shortDescription>
+        <value>Hide Rate Attributes</value>
+    </labels>
+    <labels>
+        <fullName>HideTotals</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hide Totals</shortDescription>
+        <value>Hide Totals</value>
+    </labels>
+    <labels>
+        <fullName>HighestRevenue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Highest revenue</shortDescription>
+        <value>Highest revenue</value>
+    </labels>
+    <labels>
+        <fullName>Hourly</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hourly</shortDescription>
+        <value>Hourly</value>
+    </labels>
+    <labels>
+        <fullName>Hours</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hours</shortDescription>
+        <value>Hours</value>
+    </labels>
+    <labels>
+        <fullName>HoursPerOccurrence</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hours Per Occurrence</shortDescription>
+        <value>Hours Per Occurrence</value>
+    </labels>
+    <labels>
+        <fullName>HoursPerQuotePeriod</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Hours Per quote period</shortDescription>
+        <value>Hours per {0}</value>
+    </labels>
+    <labels>
+        <fullName>HowManyTimesPerPeriod</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>How many times per period?</shortDescription>
+        <value>How many times per {0}?</value>
+    </labels>
+    <labels>
+        <fullName>Ignore</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Ignore</shortDescription>
+        <value>Ignore</value>
+    </labels>
+    <labels>
+        <fullName>IgnoreAll</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Ignore All</shortDescription>
+        <value>Ignore All</value>
+    </labels>
+    <labels>
+        <fullName>ImportResources</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Context menu item import resources label</shortDescription>
+        <value>Import resources</value>
+    </labels>
+    <labels>
+        <fullName>InvalidApprovalRequest</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Invalid Approval Request</shortDescription>
+        <value>The approval request is invalid.</value>
+    </labels>
+    <labels>
+        <fullName>InvalidFieldAPIName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Invalid field API name validation message</shortDescription>
+        <value>Field API name {0} is invalid or does not exist</value>
+    </labels>
+    <labels>
+        <fullName>InvalidObjectAPIName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Invalid object API name validation message</shortDescription>
+        <value>Object API name {0} is invalid or does not exist</value>
+    </labels>
+    <labels>
+        <fullName>InviteToCollaborate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>InviteToCollaborate</shortDescription>
+        <value>Invite to collaborate</value>
+    </labels>
+    <labels>
+        <fullName>Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label</shortDescription>
+        <value>Label</value>
+    </labels>
+    <labels>
+        <fullName>LevelAdjustment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Level Adjustment</shortDescription>
+        <value>Level adjustment (+/-)</value>
+    </labels>
+    <labels>
+        <fullName>Link</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Link button label</shortDescription>
+        <value>Link</value>
+    </labels>
+    <labels>
+        <fullName>LinkScopeParameterDialogHeader</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Link scope parameter dialog header</shortDescription>
+        <value>Link a scope parameter</value>
+    </labels>
+    <labels>
+        <fullName>LinkedToScopeParameterGuidance</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription
+		>Guidance message displayed when linked to a scope parameter</shortDescription>
+        <value>See Referenced Scope Parameter</value>
+    </labels>
+    <labels>
+        <fullName>Location</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Location</shortDescription>
+        <value>Location</value>
+    </labels>
+    <labels>
+        <fullName>LocationAmount</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Location Amount</shortDescription>
+        <value>Location Amount</value>
+    </labels>
+    <labels>
+        <fullName>LocationDiscounts</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Location Discounts tab label</shortDescription>
+        <value>Location discounts</value>
+    </labels>
+    <labels>
+        <fullName>LocationSummary</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Location Summary</shortDescription>
+        <value>Location Summary</value>
+    </labels>
+    <labels>
+        <fullName>LocationTotals</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Location Totals</shortDescription>
+        <value>Location Totals</value>
+    </labels>
+    <labels>
+        <fullName>LowestRevenue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Lowest revenue</shortDescription>
+        <value>Lowest revenue</value>
+    </labels>
+    <labels>
+        <fullName>MakeBillable</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Make quote item billable</shortDescription>
+        <value>Make billable</value>
+    </labels>
+    <labels>
+        <fullName>MakeNonBillable</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Make quote item non-billable</shortDescription>
+        <value>Make non-billable</value>
+    </labels>
+    <labels>
+        <fullName>MakeScenarioErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Make Scenario Error Message</shortDescription>
+        <value>There is a problem in Scenario conversion.</value>
+    </labels>
+    <labels>
+        <fullName>MakeScenarioSuccessMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Make Scenario Success Message</shortDescription>
+        <value>Scenario marked as Primary successfully</value>
+    </labels>
+    <labels>
+        <fullName>Margin</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Margin</shortDescription>
+        <value>Margin</value>
+    </labels>
+    <labels>
+        <fullName>MarginAdjustment</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Margin Adjustment</shortDescription>
+        <value>Margin Adjustment</value>
+    </labels>
+    <labels>
+        <fullName>MarginAfterCOLA</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Margin After Cola</shortDescription>
+        <value>Margin After Cola</value>
+    </labels>
+    <labels>
+        <fullName>MarginAfterPassthrough</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Margin After Pass-through Adjustment</shortDescription>
+        <value>Margin After Pass-through</value>
+    </labels>
+    <labels>
+        <fullName>MarginBeforeCOLA</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Margin Before Cola</shortDescription>
+        <value>Margin Before Cola</value>
+    </labels>
+    <labels>
+        <fullName>MarginPercent</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Margin %</shortDescription>
+        <value>Margin %</value>
+    </labels>
+    <labels>
+        <fullName>MaxNumberOfOccurences</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Max Number of Occurences</shortDescription>
+        <value>Max Number of Occurences</value>
+    </labels>
+    <labels>
+        <fullName>MaxNumberOfOccurrences</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Max Number of Occurrences</shortDescription>
+        <value>Max Number of Occurrences</value>
+    </labels>
+    <labels>
+        <fullName>Merge</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Merge</shortDescription>
+        <value>Merge</value>
+    </labels>
+    <labels>
+        <fullName>Monthly</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Monthly</shortDescription>
+        <value>Monthly</value>
+    </labels>
+    <labels>
+        <fullName>NA</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>N/A</shortDescription>
+        <value>N/A</value>
+    </labels>
+    <labels>
+        <fullName>Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Name</shortDescription>
+        <value>Name</value>
+    </labels>
+    <labels>
+        <fullName>NewAmount</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Amount</shortDescription>
+        <value>New Amount</value>
+    </labels>
+    <labels>
+        <fullName>NewButton</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New Button</shortDescription>
+        <value>New</value>
+    </labels>
+    <labels>
+        <fullName>NewCost</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Cost</shortDescription>
+        <value>New Cost</value>
+    </labels>
+    <labels>
+        <fullName>NewCostWithColaOverride</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Cost with Cola Override</shortDescription>
+        <value>New Cost with Cola Override</value>
+    </labels>
+    <labels>
+        <fullName>NewMargin</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Margin</shortDescription>
+        <value>New Margin</value>
+    </labels>
+    <labels>
+        <fullName>NewRevenue</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Revenue</shortDescription>
+        <value>New Revenue</value>
+    </labels>
+    <labels>
+        <fullName>Next</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Next</shortDescription>
+        <value>Next</value>
+    </labels>
+    <labels>
+        <fullName>No</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>No</shortDescription>
+        <value>No</value>
+    </labels>
+    <labels>
+        <fullName>NoAvailableRoles</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>NoAvailableRoles</shortDescription>
+        <value>-- None Available --</value>
+    </labels>
+    <labels>
+        <fullName>NoEstimateForServiceProduct</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NoEstimateForServiceProduct</shortDescription>
+        <value>The service is missing an estimate</value>
+    </labels>
+    <labels>
+        <fullName>NoFurtherServiceRecommendations</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No service recommendations message to opportunity</shortDescription>
+        <value
+		>There are no further service recommendations. Try adding another product to your opportunity and check
+            here again later.</value>
+    </labels>
+    <labels>
+        <fullName>NoQuotesGeneratedForServiceRecommendations</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NoQuotesGeneratedForServiceRecommendations</shortDescription>
+        <value>No quotes were generated for service recommendations.</value>
+    </labels>
+    <labels>
+        <fullName>NoServiceRecommendations</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No service recommendations message to opportunity</shortDescription>
+        <value
+		>There are currently no service recommendations. Try adding another product to your opportunity and check
+            here again later.</value>
+    </labels>
+    <labels>
+        <fullName>NonBillable</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>NonBillable</shortDescription>
+        <value>Non-Billable</value>
+    </labels>
+    <labels>
+        <fullName>None</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>None</shortDescription>
+        <value>None</value>
+    </labels>
+    <labels>
+        <fullName>OccursHowOften</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Occurs how often?</shortDescription>
+        <value>Occurs how often?</value>
+    </labels>
+    <labels>
+        <fullName>OriginalCost</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Original Cost</shortDescription>
+        <value>Original Cost</value>
+    </labels>
+    <labels>
+        <fullName>Override</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Override</shortDescription>
+        <value>Override</value>
+    </labels>
+    <labels>
+        <fullName>OverrideHours</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Override hours</shortDescription>
+        <value>Override</value>
+    </labels>
+    <labels>
+        <fullName>Parameter</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Parameter</shortDescription>
+        <value>Parameter</value>
+    </labels>
+    <labels>
+        <fullName>ParameterName</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Parameter Name</shortDescription>
+        <value>Parameter Name</value>
+    </labels>
+    <labels>
+        <fullName>ParameterValues</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Parameter Values</shortDescription>
+        <value>Parameter Values</value>
+    </labels>
+    <labels>
+        <fullName>Passthrough</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Pass-through label in cola worksheet</shortDescription>
+        <value>Pass-through</value>
+    </labels>
+    <labels>
+        <fullName>PassthroughAdjustment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Pass-through Adjustment %</shortDescription>
+        <value>Pass-through Adjustment %</value>
+    </labels>
+    <labels>
+        <fullName>PasteFromClipboard</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Paste from clipboard</shortDescription>
+        <value>Paste from clipboard</value>
+    </labels>
+    <labels>
+        <fullName>PerUnitDuration</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Per unit duration</shortDescription>
+        <value>Per unit duration</value>
+    </labels>
+    <labels>
+        <fullName>PercentOfTotalCost</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>% of Total Cost</shortDescription>
+        <value>% of Total Cost</value>
+    </labels>
+    <labels>
+        <fullName>PercentOfTotalHeadCount</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>% of Total Head Count</shortDescription>
+        <value>% of Total Head Count</value>
+    </labels>
+    <labels>
+        <fullName>PercentOfTotalHours</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Percent of total hours</shortDescription>
+        <value>% of total</value>
+    </labels>
+    <labels>
+        <fullName>PercentOfTotalRevenue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>% of Total Revenue</shortDescription>
+        <value>% of Total Revenue</value>
+    </labels>
+    <labels>
+        <fullName>PeriodGroup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Period Group</shortDescription>
+        <value>Period Group</value>
+    </labels>
+    <labels>
+        <fullName>PeriodGroupTotals</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Period Group Totals</shortDescription>
+        <value>Period Group Totals</value>
+    </labels>
+    <labels>
+        <fullName>PersonMonths</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Time Period</shortDescription>
+        <value>Person {0}</value>
+    </labels>
+    <labels>
+        <fullName>PreviewButton</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Preview</shortDescription>
+        <value>Preview</value>
+    </labels>
+    <labels>
+        <fullName>Previous</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Previous</shortDescription>
+        <value>Previous</value>
+    </labels>
+    <labels>
+        <fullName>PriceMethod</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Price Method</shortDescription>
+        <value>Price Method</value>
+    </labels>
+    <labels>
+        <fullName>PriceMethodMarkdown</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Price Method Markdown</shortDescription>
+        <value>Price Method Markdown</value>
+    </labels>
+    <labels>
+        <fullName>ProceedButton</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Proceed Button</shortDescription>
+        <value>Proceed</value>
+    </labels>
+    <labels>
+        <fullName>Product</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Product</shortDescription>
+        <value>Product</value>
+    </labels>
+    <labels>
+        <fullName>ProjectPhase</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Project Phase</shortDescription>
+        <value>Project Phase</value>
+    </labels>
+    <labels>
+        <fullName>ProjectPhaseColumn</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Project Phase Column</shortDescription>
+        <value>Project Phase/Activity Group/Activity/Task</value>
+    </labels>
+    <labels>
+        <fullName>ProjectPhaseTotals</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Project Phase Totals</shortDescription>
+        <value>Project Phase Totals</value>
+    </labels>
+    <labels>
+        <fullName>QualifiedAmount</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Qualified Amount</shortDescription>
+        <value>Qualified Amount</value>
+    </labels>
+    <labels>
+        <fullName>QualifyingPeriod</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Qualifying period validation field label</shortDescription>
+        <value>qualifying period</value>
+    </labels>
+    <labels>
+        <fullName>Quarterly</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quarterly</shortDescription>
+        <value>Quarterly</value>
+    </labels>
+    <labels>
+        <fullName>QuoteCloneError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>An error occurred while cloning the Quote</shortDescription>
+        <value>An error occurred while cloning the Quote</value>
+    </labels>
+    <labels>
+        <fullName>QuoteCloneHeader</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Clone Quote</shortDescription>
+        <value>Clone Quote</value>
+    </labels>
+    <labels>
+        <fullName>QuoteContingencies</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote contingencies tab label</shortDescription>
+        <value>Quote contingencies</value>
+    </labels>
+    <labels>
+        <fullName>QuoteCurrencyValidationMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Quote Currency Validation Message</shortDescription>
+        <value>Quote Currency cannot be changed</value>
+    </labels>
+    <labels>
+        <fullName>QuoteDiscounts</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote discounts tab label</shortDescription>
+        <value>Quote discounts</value>
+    </labels>
+    <labels>
+        <fullName>QuoteName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote Name</shortDescription>
+        <value>Quote Name</value>
+    </labels>
+    <labels>
+        <fullName>QuotePeriodCountRangeError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote periods count should not be more than 468</shortDescription>
+        <value
+		>The Quote&apos;s periods count cannot be greater than 468. Please adjust the time periods / service dates</value>
+    </labels>
+    <labels>
+        <fullName>QuoteServiceDateRangeError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote Service Start Date Range Error</shortDescription>
+        <value
+		>The Quote&apos;s service start date cannot be greater than Quote&apos;s service end date</value>
+    </labels>
+    <labels>
+        <fullName>QuotedRate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quoted Rate</shortDescription>
+        <value>Quoted Rate</value>
+    </labels>
+    <labels>
+        <fullName>Rate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Rate</shortDescription>
+        <value>Rate</value>
+    </labels>
+    <labels>
+        <fullName>RateCardName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Rate card name</shortDescription>
+        <value>Rate Card Name</value>
+    </labels>
+    <labels>
+        <fullName>RateConversionFactors</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>rate conversion factors</shortDescription>
+        <value>rate conversion factors</value>
+    </labels>
+    <labels>
+        <fullName>RateConversionOverrideLessThanOrEqualZero</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>override value must be greater than zero</shortDescription>
+        <value>Rate conversion factor override value must be greater than zero</value>
+    </labels>
+    <labels>
+        <fullName>RateMatch</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Rate Match</shortDescription>
+        <value>Rate Match</value>
+    </labels>
+    <labels>
+        <fullName>RealignResource</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Realign Resource</shortDescription>
+        <value>Realign Resource</value>
+    </labels>
+    <labels>
+        <fullName>RefreshNote</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Success Message</shortDescription>
+        <value>Note: Please refresh the page to see updated information</value>
+    </labels>
+    <labels>
+        <fullName>RejectWithComments</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Reject With Comments</shortDescription>
+        <value>Reject with comments</value>
+    </labels>
+    <labels>
+        <fullName>RemoveAddon</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>RemoveAddon</shortDescription>
+        <value>Remove add-on</value>
+    </labels>
+    <labels>
+        <fullName>RemoveResource</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>RemoveResource</shortDescription>
+        <value>Remove resource</value>
+    </labels>
+    <labels>
+        <fullName>RenameAddon</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>RenameAddon</shortDescription>
+        <value>Rename add-on</value>
+    </labels>
+    <labels>
+        <fullName>RenamePhase</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>RenamePhase</shortDescription>
+        <value>Rename phase</value>
+    </labels>
+    <labels>
+        <fullName>RenameRole</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>RenameRole</shortDescription>
+        <value>Rename role</value>
+    </labels>
+    <labels>
+        <fullName>RenameSection</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>RenameSection</shortDescription>
+        <value>Rename section</value>
+    </labels>
+    <labels>
+        <fullName>RequiredFieldEmpty</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Required field empty message</shortDescription>
+        <value>Required field &apos;{0}&apos; is empty</value>
+    </labels>
+    <labels>
+        <fullName>RequiredFieldsMissingNotificationMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Required fields missing message</shortDescription>
+        <value>Please fill the required form values</value>
+    </labels>
+    <labels>
+        <fullName>Resource</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Resource</shortDescription>
+        <value>Resource</value>
+    </labels>
+    <labels>
+        <fullName>ResourceCount</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Resource Count</shortDescription>
+        <value>Resource Count</value>
+    </labels>
+    <labels>
+        <fullName>ResourceDefaultSuccessMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Resource Defaults Success Message</shortDescription>
+        <value>Resource Role Preferences Saved Successfully</value>
+    </labels>
+    <labels>
+        <fullName>ResourceDefaultsHeaderLabel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Resource Defaults Header Label</shortDescription>
+        <value>Select preferred resources</value>
+    </labels>
+    <labels>
+        <fullName>ResourceNotificationMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Resource Notification Message</shortDescription>
+        <value>Resource Added Successfully</value>
+    </labels>
+    <labels>
+        <fullName>ResourceRole</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Resource Role</shortDescription>
+        <value>Resource Role</value>
+    </labels>
+    <labels>
+        <fullName>ResourceRoleTotals</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Resource Role Totals</shortDescription>
+        <value>Resource Role Totals</value>
+    </labels>
+    <labels>
+        <fullName>ResourceSummary</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Resource summary</shortDescription>
+        <value>Resource summary</value>
+    </labels>
+    <labels>
+        <fullName>Revenue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Revenue</shortDescription>
+        <value>Revenue</value>
+    </labels>
+    <labels>
+        <fullName>RevenueAdjustment</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Revenue Adjustment</shortDescription>
+        <value>Revenue Adjustment</value>
+    </labels>
+    <labels>
+        <fullName>RevenueAfterPassthrough</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Revenue after Pass-through Adjustment</shortDescription>
+        <value>Revenue after Pass-through Adjustment</value>
+    </labels>
+    <labels>
+        <fullName>RevenueIncrease</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Revenue Increase</shortDescription>
+        <value>Revenue Increase</value>
+    </labels>
+    <labels>
+        <fullName>Review</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Review</shortDescription>
+        <value>Review</value>
+    </labels>
+    <labels>
+        <fullName>ReviewCola</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Review cola</shortDescription>
+        <value>Review cola</value>
+    </labels>
+    <labels>
+        <fullName>ReviewColaRates</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Review cola rates</shortDescription>
+        <value>Review cola rates</value>
+    </labels>
+    <labels>
+        <fullName>ReviewLocationDiscounts</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Review location discounts dialog label</shortDescription>
+        <value>Review location discounts</value>
+    </labels>
+    <labels>
+        <fullName>ReviewVolumeDiscounts</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Menu item label for reviewing volume discounts</shortDescription>
+        <value>Review volume discounts</value>
+    </labels>
+    <labels>
+        <fullName>RevokeCollaboration</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Revoke Collaboration</shortDescription>
+        <value>Revoke collaboration</value>
+    </labels>
+    <labels>
+        <fullName>Role</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Role</shortDescription>
+        <value>Role</value>
+    </labels>
+    <labels>
+        <fullName>RolledUpAdjustments</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Rolled-Up Adjustments</shortDescription>
+        <value>Rolled-Up Adjustments</value>
+    </labels>
+    <labels>
+        <fullName>RolledUpCalculatedDuration</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Rolled-Up Calculated Duration</shortDescription>
+        <value>Rolled-Up Calculated Duration</value>
+    </labels>
+    <labels>
+        <fullName>RolledUpEstimatedDuration</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Rolled-Up Estimated Duration</shortDescription>
+        <value>Rolled-Up Estimated Duration</value>
+    </labels>
+    <labels>
+        <fullName>SaveAndReview</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Save and review</shortDescription>
+        <value>Save and review</value>
+    </labels>
+    <labels>
+        <fullName>SaveAsTemplate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote As Template Lightning Header Label</shortDescription>
+        <value>Save as template</value>
+    </labels>
+    <labels>
+        <fullName>SaveButton</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SaveButton</shortDescription>
+        <value>Save</value>
+    </labels>
+    <labels>
+        <fullName>ScopeDiscovery</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Scope Discovery</shortDescription>
+        <value>Scope Discovery</value>
+    </labels>
+    <labels>
+        <fullName>ScopeParameterIncompatible</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Formula validation error message</shortDescription>
+        <value>Scope Parameter {0} must be of type Integer.</value>
+    </labels>
+    <labels>
+        <fullName>ScopeParameterMissing</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Formula validation error message</shortDescription>
+        <value>Scope Parameter {0} does not exist.</value>
+    </labels>
+    <labels>
+        <fullName>ScopeParameterValue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Scope Parameter Value</shortDescription>
+        <value>Scope parameter value</value>
+    </labels>
+    <labels>
+        <fullName>ScopeParameters</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Scope Parameters</shortDescription>
+        <value>Scope Parameters</value>
+    </labels>
+    <labels>
+        <fullName>ScopeSummary</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Scope summary</shortDescription>
+        <value>Scope summary</value>
+    </labels>
+    <labels>
+        <fullName>Section</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section</shortDescription>
+        <value>Section</value>
+    </labels>
+    <labels>
+        <fullName>SectionSummary</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section Summary</shortDescription>
+        <value>Section Summary</value>
+    </labels>
+    <labels>
+        <fullName>SectionTarget</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section Target</shortDescription>
+        <value>Section Target</value>
+    </labels>
+    <labels>
+        <fullName>SectionTotals</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Section Totals</shortDescription>
+        <value>Section Totals</value>
+    </labels>
+    <labels>
+        <fullName>Select</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Select something placeholder</shortDescription>
+        <value>Select {0}</value>
+    </labels>
+    <labels>
+        <fullName>SelectAggregatedBy</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Volume discount total by field label</shortDescription>
+        <value>Select aggregated by</value>
+    </labels>
+    <labels>
+        <fullName>SelectAll</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Select All</shortDescription>
+        <value>-- All --</value>
+    </labels>
+    <labels>
+        <fullName>SelectDiscountMetric</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Volume discount category field label</shortDescription>
+        <value>Select discount metric</value>
+    </labels>
+    <labels>
+        <fullName>SelectResourceRole</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Select Resource Placeholder Text</shortDescription>
+        <value>Select Resource Role</value>
+    </labels>
+    <labels>
+        <fullName>Sequence</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sequence</shortDescription>
+        <value>Sequence</value>
+    </labels>
+    <labels>
+        <fullName>Service</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Service</shortDescription>
+        <value>Service</value>
+    </labels>
+    <labels>
+        <fullName>ServiceRecommendations</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Service Recommendations</shortDescription>
+        <value>Service Recommendations</value>
+    </labels>
+    <labels>
+        <fullName>ServiceYear</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Service Year</shortDescription>
+        <value>Service Year</value>
+    </labels>
+    <labels>
+        <fullName>SettingSuccessfullySaved</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Successfully saved settings notification message</shortDescription>
+        <value>Settings successfully saved</value>
+    </labels>
+    <labels>
+        <fullName>ShowActivities</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Activities</shortDescription>
+        <value>Show Activities</value>
+    </labels>
+    <labels>
+        <fullName>ShowActivityGroup</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Activity Group</shortDescription>
+        <value>Show Activity Group</value>
+    </labels>
+    <labels>
+        <fullName>ShowHeadCountView</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show head count view</shortDescription>
+        <value>Show head count view</value>
+    </labels>
+    <labels>
+        <fullName>ShowMetrics</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Metrics</shortDescription>
+        <value>Show Metrics</value>
+    </labels>
+    <labels>
+        <fullName>ShowPricingAttributes</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Pricing Attributes</shortDescription>
+        <value>Show Pricing Attributes</value>
+    </labels>
+    <labels>
+        <fullName>ShowProjectPhase</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Project Phase</shortDescription>
+        <value>Show Project Phase</value>
+    </labels>
+    <labels>
+        <fullName>ShowQuoteItems</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Quote Items</shortDescription>
+        <value>Show Quote Items</value>
+    </labels>
+    <labels>
+        <fullName>ShowRateAttributes</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Rate Attributes</shortDescription>
+        <value>Show Rate Attributes</value>
+    </labels>
+    <labels>
+        <fullName>ShowTasks</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Tasks</shortDescription>
+        <value>Show Tasks</value>
+    </labels>
+    <labels>
+        <fullName>ShowTotals</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Totals</shortDescription>
+        <value>Show Totals</value>
+    </labels>
+    <labels>
+        <fullName>ShowValues</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Show Values</shortDescription>
+        <value>Show Values</value>
+    </labels>
+    <labels>
+        <fullName>SpecifyAvailability</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Resource availability action menu item label</shortDescription>
+        <value>Specify availability</value>
+    </labels>
+    <labels>
+        <fullName>Split</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Split</shortDescription>
+        <value>Split</value>
+    </labels>
+    <labels>
+        <fullName>SplitInputMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Split Input Message</shortDescription>
+        <value>How many do you want to split by?</value>
+    </labels>
+    <labels>
+        <fullName>SplitPercentageError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Split Percentage Error</shortDescription>
+        <value>The total of the split must sum up to 100%.</value>
+    </labels>
+    <labels>
+        <fullName>SplitResource</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Split Resource</shortDescription>
+        <value>Split resource</value>
+    </labels>
+    <labels>
+        <fullName>StartDateChanged</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Start Date Changed</shortDescription>
+        <value>Start date changed to {0}.</value>
+    </labels>
+    <labels>
+        <fullName>StartPeriod</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Start Period</shortDescription>
+        <value>Start period</value>
+    </labels>
+    <labels>
+        <fullName>State</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>State</shortDescription>
+        <value>State</value>
+    </labels>
+    <labels>
+        <fullName>StdCost</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Std Cost</shortDescription>
+        <value>Std Cost</value>
+    </labels>
+    <labels>
+        <fullName>StdRate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Std Rate</shortDescription>
+        <value>Std Rate</value>
+    </labels>
+    <labels>
+        <fullName>SubmitForApproval</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Submit For Approval</shortDescription>
+        <value>Submit for approval</value>
+    </labels>
+    <labels>
+        <fullName>SubmitForApprovalErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Submit For Approval Error Message</shortDescription>
+        <value>Problem submitting for approval</value>
+    </labels>
+    <labels>
+        <fullName>SubmitForApprovalHeader</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Submit For Approval header</shortDescription>
+        <value>Select and submit for approval</value>
+    </labels>
+    <labels>
+        <fullName>SubmittedScenariosForApproval</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Submitted Scenarios For Approval</shortDescription>
+        <value>Submitted scenarios for approval.</value>
+    </labels>
+    <labels>
+        <fullName>Subtotal</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Subtotal</shortDescription>
+        <value>Subtotal</value>
+    </labels>
+    <labels>
+        <fullName>Success</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Success</shortDescription>
+        <value>Success</value>
+    </labels>
+    <labels>
+        <fullName>SuccessfullyRemovedEstimate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Successfully de-linked Estimate</shortDescription>
+        <value>Successfully de-linked Estimate: {0}</value>
+    </labels>
+    <labels>
+        <fullName>SuccessfullySaved</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Successfully saved notification message</shortDescription>
+        <value>{0} successfully saved</value>
+    </labels>
+    <labels>
+        <fullName>SuccessfullyUpdatedNotificationTitle</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Successfully updated notification title</shortDescription>
+        <value>Successfully Updated</value>
+    </labels>
+    <labels>
+        <fullName>Summary</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Summary</shortDescription>
+        <value>Summary</value>
+    </labels>
+    <labels>
+        <fullName>SyncEstimateToQuoteError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error Message</shortDescription>
+        <value>There was a problem in updating the quote</value>
+    </labels>
+    <labels>
+        <fullName>SyncEstimateToQuoteSuccess</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Success Message</shortDescription>
+        <value>Quote has been successfully updated</value>
+    </labels>
+    <labels>
+        <fullName>SyncToQuote</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Sync to Quote</shortDescription>
+        <value>Sync to Quote</value>
+    </labels>
+    <labels>
+        <fullName>SystemFieldChangeDisallowed</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Summary</shortDescription>
+        <value>System controlled fields cannot be changed</value>
+    </labels>
+    <labels>
+        <fullName>Task</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Task</shortDescription>
+        <value>Task</value>
+    </labels>
+    <labels>
+        <fullName>TaskDiscovery</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Task discovery</shortDescription>
+        <value>Task discovery</value>
+    </labels>
+    <labels>
+        <fullName>TemplateName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Quote As Template Lightning Input Label</shortDescription>
+        <value>Template name</value>
+    </labels>
+    <labels>
+        <fullName>Tier</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Volume discount tier title</shortDescription>
+        <value>Tier {0}</value>
+    </labels>
+    <labels>
+        <fullName>TierMax</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Tier Max</shortDescription>
+        <value>Tier Max</value>
+    </labels>
+    <labels>
+        <fullName>TierMin</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Tier Min</shortDescription>
+        <value>Tier Min</value>
+    </labels>
+    <labels>
+        <fullName>TimePeriod</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Time period</shortDescription>
+        <value>Time Period</value>
+    </labels>
+    <labels>
+        <fullName>To</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>To</shortDescription>
+        <value>To</value>
+    </labels>
+    <labels>
+        <fullName>ToValue</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>To Value</shortDescription>
+        <value>To Value</value>
+    </labels>
+    <labels>
+        <fullName>TooManyPeriods</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Too many periods</shortDescription>
+        <value>Too many periods</value>
+    </labels>
+    <labels>
+        <fullName>Total</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Total</shortDescription>
+        <value>Total</value>
+    </labels>
+    <labels>
+        <fullName>TotalAdjustment</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Total Adjustment</shortDescription>
+        <value>Total Adjustment</value>
+    </labels>
+    <labels>
+        <fullName>TotalAmount</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Total Amount</shortDescription>
+        <value>Total Amount</value>
+    </labels>
+    <labels>
+        <fullName>TotalBy</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Total by column header label</shortDescription>
+        <value>Total by</value>
+    </labels>
+    <labels>
+        <fullName>UnknownError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Unknown error</shortDescription>
+        <value>An unknown error has occurred.</value>
+    </labels>
+    <labels>
+        <fullName>UserInput</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>User input</shortDescription>
+        <value>User input</value>
+    </labels>
+    <labels>
+        <fullName>ValidationErrorTitle</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Validation error title</shortDescription>
+        <value>Validation Error Occurred</value>
+    </labels>
+    <labels>
+        <fullName>VolumeDiscountSummary</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Volume discount summary dialog title</shortDescription>
+        <value>Review volume discounts</value>
+    </labels>
+    <labels>
+        <fullName>VolumeDiscounts</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Volume Discounts tab label</shortDescription>
+        <value>Volume discounts</value>
+    </labels>
+    <labels>
+        <fullName>Weekly</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Weekly</shortDescription>
+        <value>Weekly</value>
+    </labels>
+    <labels>
+        <fullName>YOYCOLARate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>YOY Cola Rate</shortDescription>
+        <value>YOY Cola Rate</value>
+    </labels>
+    <labels>
+        <fullName>Year</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Year</shortDescription>
+        <value>Year</value>
+    </labels>
+    <labels>
+        <fullName>Yes</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Yes</shortDescription>
+        <value>Yes</value>
+    </labels>
+    <labels>
+        <fullName>YoyPassthroughRate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>YOY Pass-through Rate</shortDescription>
+        <value>Pass-through Rate</value>
+    </labels>
+</CustomLabels>

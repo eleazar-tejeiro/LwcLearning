@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Office__c</fullName>
+    <description>Office selected.</description>
+    <externalId>false</externalId>
+    <label>Office</label>
+    <referenceTo>Office__c</referenceTo>
+    <relationshipLabel>OfficeRequests</relationshipLabel>
+    <relationshipName>OfficeRequests</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

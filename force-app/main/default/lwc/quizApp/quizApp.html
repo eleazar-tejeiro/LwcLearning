@@ -1,0 +1,46 @@
+<!--
+  @description       : A quiz app developed using lwc
+  @author            : Uriel Tejeiro
+  @group             : 
+  @last modified on  : 10-27-2022
+  @last modified by  : Uriel Tejeiro
+-->
+<template>
+  <lightning-card title="Quiz App in LWC">
+    <div class="slds-var-m-around_medium">
+      <template if:true={isSubmitted}>
+        <div class={isScoredFull}> You have Scored {correctAnswers} out of {myQuestions.length}</div>
+      </template>
+      <form>
+        <template for:each={myQuestions} for:item="quiz">
+          <div key={quiz.id} class="slds-var-m-bottom_medium">
+            <div class="slds-box">
+              <strong>{quiz.id} - {quiz.question}</strong>
+              <div class="slds-grid slds-gutters slds-var-p-bottom_medium">
+                <div class="slds-col">
+                  <input type="radio" name={quiz.id} value="a" onchange={handleRadioChange} />
+                  <label>A. </label>
+                  {quiz.answers.a}
+                </div>
+                <div class="slds-col">
+                  <input type="radio" name={quiz.id} value="b" onchange={handleRadioChange} />
+                  <label>B. </label>
+                  {quiz.answers.b}
+                </div>
+                <div class="slds-col">
+                  <input type="radio" name={quiz.id} value="c" onchange={handleRadioChange} />
+                  <label>C. </label>
+                  {quiz.answers.c}
+                </div>
+              </div>
+            </div>
+          </div>
+        </template>
+        <lightning-button variant="brand" type="submit" title="Submit Quiz" label="Submit"
+          class="slds-var-m-around_small" onclick={handleSubmit} disabled={allNotSelected}></lightning-button>
+        <lightning-button variant="brand" type="reset" title="Reset Quiz" label="Reset" class="slds-var-m-around_small"
+          onclick={handleReset}></lightning-button>
+      </form>
+    </div>
+  </lightning-card>
+</template>

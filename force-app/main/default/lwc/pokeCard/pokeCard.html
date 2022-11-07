@@ -1,0 +1,35 @@
+<template>
+    <div class="details-container">
+        <img class="pokemon" src={sprite}>
+        <div class="slds-p-left_large">
+            <h1 class="slds-text-heading_small">Name: {name}</h1>
+            <dl class="slds-list_horizontal slds-wrap slds-m-top_medium">
+                <dt class="slds-item_label slds-text-color_weak slds-truncate">height:</dt>
+                <dd class="slds-item_detail slds-truncate">{height}</dd>
+                <dt class="slds-item_label slds-text-color_weak slds-truncate">weight:</dt>
+                <dd class="slds-item_detail slds-truncate">{weight}</dd>
+                <dt class="slds-item_label slds-text-color_weak slds-truncate">base exp:</dt>
+                <dd class="slds-item_detail slds-truncate">{baseExp}</dd>
+            </dl>
+        </div>
+    </div>
+    <div>
+        <h1 class="slds-text-heading_small slds-m-top_medium">Types({noTypes})</h1>
+        <template for:each={types} for:item="type">
+            <li key={type.slot}>
+                {type.type.name}
+            </li>
+        </template>
+    </div>
+    <div>
+        <h1 class="slds-text-heading_small slds-m-top_medium">Stats({noStats})</h1>
+        <template for:each={stats} for:item="stat">
+            <li key={stat.stat.name}>
+                {stat.stat.name}: {stat.base_stat}
+            </li>
+        </template>
+    </div>
+    <div class="slds-m-top_medium" if:true={showAddPokemon}>
+        <lightning-button label="Add Pokemon" title="Add Pokemon" onclick={handleClick} disabled={disabled}></lightning-button>
+    </div>
+</template>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shadow DOM</title>
+        <style>
+            p{
+                color:red;
+            }
+        </style>
+    </head>
+    <body>
+       <div>
+           <p>Thanks for choosing Zero to Hero Course</p>
+       </div>
+       <div id="host"></div>
+       <button onclick="fetchPtag()">Click me</button>
+
+       <script>
+           const elem = document.querySelector('#host')
+           const shadowRoot = elem.attachShadow({mode:'open'})
+           shadowRoot.innerHTML = '<p>I am shadow DOM</p>'
+
+           function fetchPtag(){
+               let tags = document.querySelectorAll('p')
+               console.log(tags)
+           }
+       </script>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div>I am div <span>I am span</span></div>
+        <div>I am another div</div>
+
+        <strong>I am strong text</strong>
+        <a href="https://google.com">Go to Google</a> -->
+
+        
+        <!-- <a href="https://google.com">Go to Google</a>
+        <img src="https://picsum.photos/200"/>
+
+        <div data-name="nikhil">Username</div>
+
+
+        <div>Welcome to my first html page.....</div>
+        <div>Another div tag</div>
+        <p>This is a paragraph</p>
+        <ul>
+            <li>List 1</li>
+            <li>List 2</li>
+        </ul>
+        <h1>heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h6>heading 4</h6> -->
