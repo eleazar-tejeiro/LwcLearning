@@ -7,7 +7,7 @@ I've did this repository with the purpose to get deep into LWC, it helped me to 
  - [X] QuizApp simple LWC
  - [X] child and parent Component
  - [X] conditionalRendering
- - [] 
+ - [] will continue...
 
 I'm following the course ZeroToHero on Udemy.
 ## License
