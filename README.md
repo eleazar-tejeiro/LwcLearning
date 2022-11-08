@@ -1,18 +1,15 @@
-# Salesforce DX Project: Next Steps
+# Lightning Web Components - Learning Path
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+I've did this repository with the purpose to get deep into LWC, it helped me to improve my JavaScript skills also.
+## LWC Created
+[X] helloWorld
+[X] looping from LWC
+[X] QuizApp simple LWC
+[X] child and parent Component
+[X] conditionalRendering
+[-] 
 
-## How Do You Plan to Deploy Your Changes?
+I'm following the course ZeroToHero on Udemy.
+## License
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+[MIT](https://choosealicense.com/licenses/mit/)
