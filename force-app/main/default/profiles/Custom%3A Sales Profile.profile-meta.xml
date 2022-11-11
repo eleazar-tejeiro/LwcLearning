@@ -16,6 +16,10 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>ApprovalComponentController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>PokeCardController</apexClass>
         <enabled>false</enabled>
     </classAccesses>

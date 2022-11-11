@@ -2,10 +2,10 @@
 <ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
     <contactEmail>eleazartejeiro@gmail.com</contactEmail>
     <label>PokedexOrg</label>
-    <logoUrl>https://saltedcaramel-beans-3829-dev-ed.file.force.com/servlet/servlet.ImageServer?id=015DL000002yXD5&amp;oid=00DDL00000CerRH</logoUrl>
+    <logoUrl>https://test.salesforce.com/logos/Salesforce/Salesforce/logo.png</logoUrl>
     <oauthConfig>
         <callbackUrl>trailheadapp://auth/success</callbackUrl>
-        <consumerKey>3MVG99PRsqIQWIIybPXBgPXx4noFhyzvcFBU3BaopFpO_Y4beKks5lUMw_GcbNFwCxabV.wiFZh053xTvecFN</consumerKey>
+        <consumerKey>3MVG9cb9UNjJbdEy7QOLwHLFfEbhx6qjfgarxFtMwZKOv1xDkoi4fmhNPenAVWqgAvFnVedx5NRnE.zfbfbER</consumerKey>
         <isAdminApproved>false</isAdminApproved>
         <isConsumerSecretOptional>false</isConsumerSecretOptional>
         <isIntrospectAllTokens>false</isIntrospectAllTokens>

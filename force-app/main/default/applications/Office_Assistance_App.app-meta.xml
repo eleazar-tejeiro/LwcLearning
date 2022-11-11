@@ -11,6 +11,7 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Office Assistance App</label>
     <navType>Standard</navType>
+    <tabs>LWC_Fundamentals</tabs>
     <tabs>Office__c</tabs>
     <tabs>OfficeRequest__c</tabs>
     <tabs>Pokemon__c</tabs>
